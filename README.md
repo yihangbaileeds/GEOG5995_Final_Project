@@ -3,4 +3,4 @@ This research project embarks on an exploratory analysis of the intricate relati
 
 Utilizing boundary data from the UK Data Service, the project delves into an in-depth analysis of various economic indicators and their potential influence on the migration decisions of students. This approach is grounded in the hypothesis that economic status within specific regions will significantly sways the migratory trends among the student population. The investigation employs a robust methodological framework, leveraging Python's data processing capabilities, coupled with geospatial analysis and advanced visualization techniques, to dissect and interpret the intricate patterns that emerge.
 
-### Note: To run the ipynb file, you can create the environment by code: conda env create -f env.yml
+### Note: To run the ipynb file, you may need to create the environment by code: conda env create -f env.yml
