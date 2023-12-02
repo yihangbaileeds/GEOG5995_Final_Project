@@ -56,4 +56,3 @@ To replicate this analysis:
 
 ## Contributions and Future Directions
 This project is open for contributions and further research. The findings underscore the importance of economic indicators in urban planning, particularly in areas with high student populations. Future research could explore more detailed data or additional factors influencing student migration.
-![Uploading image.png…]()
