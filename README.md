@@ -1,7 +1,7 @@
 # GEOG5995M Final Project: Analysing the Interplay Between Economic Activity and Student Migration in England and Wales
 
 ## Overview
-This repository contains the GEOG5995m Final Project by Yihang Bai, focusing on a detailed geographical analysis of the interplay between economic activity and student migration in England and Wales. The project utilizes a range of geospatial analysis techniques to explore how economic factors influence student migration patterns, providing crucial insights for urban planning and policy formulation.
+This repository contains the GEOG5995M Final Project by Yihang Bai, focusing on a detailed geographical analysis of the interplay between economic activity and student migration in England and Wales. The project utilizes a range of geospatial analysis techniques to explore how economic factors influence student migration patterns, providing crucial insights for urban planning and policy formulation.
 
 ### Project Significance
 The movement of students across regions is a phenomenon with significant implications for urban development, transportation planning, and economic growth. Understanding these migration patterns is essential for creating sustainable and efficient urban environments. This project aims to shed light on the intricate relationship between economic health and student migration, offering a nuanced perspective on how these factors interconnect and vary across different geographical locations.
@@ -18,7 +18,7 @@ The key objectives of this project include:
 ## Repository Contents
 This repository is structured to provide a comprehensive overview of the project's methodology and findings:
 
-### Jupyter Notebook (`GEOG5995m_Final_Project_YihangBai.ipynb`)
+### Jupyter Notebook (`GEOG5995M_Final_Project_YihangBai.ipynb`)
 A detailed Jupyter notebook containing all the code, analysis, visualizations, and narrative explanations. It is divided into several sections, each dedicated to a specific aspect of the research:
 1.	Introduction: Provides an overview of the project's objectives and the significance of the study.
 2.	Data import and cleaning: Details the process of preparing the datasets for analysis, emphasizing data integrity and accuracy.
@@ -28,7 +28,7 @@ A detailed Jupyter notebook containing all the code, analysis, visualizations, a
 
 ### UK boundary data (`England and Wales LTLAs 2022.7z`)
 The boundary data for England and Wales were obtained from the UK Data Service. To align with the dataset, the English Lower Tier Local Authorities (LTLA) were specifically chosen as the geographical unit of analysis.
-Note: You need unzip the LTLA shape file to the original folder to run the code in the jupyter notebook.
+Note: You need to unzip the LTLA shape file to the original folder to run the code in the jupyter notebook.
 
 ### Economy activity status data (`Employment.csv`)
 The dataset provides estimates from the 2021 Census, categorizing usual residents in England and Wales, aged 16 and over, based on their economic activity status. This classification encompasses three primary categories: those who are economically active and employed, those who are economically active but unemployed, and those who are economically inactive. In this study, the proportion of economically active individuals is utilized as a measure of local economic health. For comparative purposes, the dataset also includes economic activity data from the 2011 Census.
@@ -37,7 +37,7 @@ The dataset provides estimates from the 2021 Census, categorizing usual resident
 The dataset employed in this study offers estimates from the 2021 Census regarding usual residents of England and Wales, aged 16 and over, who resided at a different address one year prior to the Census. This previous address was either a student term-time location or a boarding school address within the UK. The data categorizes these individuals based on their relocation from one Lower Tier Local Authority (LTLA) area to another, comparing their location one year before the Census with their current LTLA residence as of Census Day, 21 March 2021.
 
 ### Python Environment File (`env.yml`)
-A file that create an coding environment for replicating the analysis, including libraries for data cleaning, geospatial analysis, and visualization. You may need to create the environment by code: ` conda env create -f env.yml`.
+A file that creates a coding environment for replicating the analysis, including libraries for data cleaning, geospatial analysis, and visualization. You may need to create the environment by code: ` conda env create -f env.yml`.
 
 ## Code Description and Analysis Techniques
 The project uses Python as the primary programming language, with an emphasis on libraries like pandas, geopandas, matplotlib, and seaborn for data manipulation and visualization. Key analysis techniques include:
