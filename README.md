@@ -1,4 +1,4 @@
-# GEOG5995m Final Project: Analysing the Interplay Between Economic Activity and Student Migration in England and Wales
+# GEOG5995M Final Project: Analysing the Interplay Between Economic Activity and Student Migration in England and Wales
 
 ## Overview
 This repository contains the GEOG5995m Final Project by Yihang Bai, focusing on a detailed geographical analysis of the interplay between economic activity and student migration in England and Wales. The project utilizes a range of geospatial analysis techniques to explore how economic factors influence student migration patterns, providing crucial insights for urban planning and policy formulation.
