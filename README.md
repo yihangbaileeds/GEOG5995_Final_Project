@@ -51,7 +51,7 @@ The analysis uncovers significant correlations and spatial variability between e
 To replicate this analysis:
 1. Install Python 3.8 and Jupyter Notebook or JupyterLab.
 2. Clone the repository to your local machine. Unzip the LTLA shape file to the original folder.
-3. Create the coding environment using ` conda env create -f env.yml`.
+3. Create the coding environment using `conda env create -f env.yml`.
 4. Open and run the cells in `GEOG5995m_Final_Project_YihangBai.ipynb` sequentially.
 
 ## Contributions and Future Directions
